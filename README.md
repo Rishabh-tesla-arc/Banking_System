@@ -36,7 +36,7 @@ To compile and run the Bank Management System, follow these steps:
 Use a C++ compiler to compile the main.cpp file. For example, with g++:
 
 ```sh
-g++ -o bankingSystem.cpp
+ g++ -o bankingSystem.cpp
 
 
 
