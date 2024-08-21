@@ -29,8 +29,8 @@ To compile and run the Bank Management System, follow these steps:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/rishabhshrivastav12/bank-management-system.git
+   cd bank-management-system
 
 2. **Compile the Code**
 Use a C++ compiler to compile the main.cpp file. For example, with g++:
